@@ -1,0 +1,15 @@
+{
+	"name": "html5shiv",
+	"description": "html5shiv for pai",
+	"version": "0.1.0",
+	"author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+	"js": ["innershiv.js"],
+	"php": "html5shiv.php",
+	
+	"licenses": [ 
+		{
+			"type": "WTFPL",
+			"url": "http://sam.zoy.org/wtfpl/COPYING"
+		}
+	]
+}
